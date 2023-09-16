@@ -32,8 +32,12 @@ Feel free to explore my repositories to see more of my work!
 
 ## Let's Connect
 
-📫 You can reach me via [Email](mailto:kekeshloso244@gmail.com) or [LinkedIn](www.linkedin.com/in/kyrillos-tharwat-346b6627b).
+📫 You can reach me via [Email](mailto:kekeshloso244@gmail.com) 
+
+📌Follow me on [LinkedIn](www.linkedin.com/in/kyrillos-tharwat-346b6627b).
+
 👍 Follow me on [Facebook](https://www.facebook.com/profile.php?id=100010830135601)
+
 🤳 Contact me directly on [WhatsApp](http://wa.me/+201204153110).
 
 I'm excited to be a part of the Flutter community and look forward to connecting with fellow developers, sharing knowledge, and building amazing mobile apps together! If you have any questions, suggestions, or just want to chat, feel free to reach out.
