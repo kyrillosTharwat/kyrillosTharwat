@@ -11,7 +11,7 @@
 
 ## 🛠 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,vscode,firebase,git,github,py,md,postman,cs,html,css,js,sqlite&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,vscode,firebase,git,github,py,postman,cs,html,css,js,sqlite&perline=15&theme=dark)](https://skillicons.dev)
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=kyrillosTharwat&count_private=true&show_icons=true&theme=dark&include_all_commits=true&raw=true&border_radius=8" height="165em"/>
