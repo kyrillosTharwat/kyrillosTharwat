@@ -3,10 +3,15 @@
 ## 🚀 About Me
 
 🚀 Aspiring Flutter Developer
+
 🌱 Currently learning and growing in the world of mobile app development
+
 💡 I love turning ideas into beautiful and functional mobile apps
+
 🎓 Computer Science graduate from Suez-University
+
 📚 Constantly expanding my knowledge in Flutter and Dart
+
 🤝 Open to collaboration and eager to contribute to exciting projects
 
 ## 🛠 Skills & Tools
